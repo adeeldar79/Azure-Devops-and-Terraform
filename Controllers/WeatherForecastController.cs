@@ -13,6 +13,7 @@ namespace WeatherAPI.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
+            //"abc", "def", "ghi", "jkl", "mno", "pqr", "stu", "vwx", "yaz", "abc"
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
